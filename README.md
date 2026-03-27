@@ -35,6 +35,5 @@ To begin my career in Data Analytics or Data Science, where I can apply my skill
 ## 📬 Contact
 
 - GitHub: https://github.com/ayushmankumar  
-- LinkedIn: (Add your link here)
 
 ---
