@@ -1,11 +1,11 @@
 <h1 align="center">Ayushman Kumar</h1>
-<h3 align="center">Data Science Student | Aspiring Data Analyst</h3>
+<h3 align="center">Data Science Student | Aspiring Data Analyst | MERN Stack Developer</h3>
 
 ---
 
 ## 👋 About Me
 
-I am a final-year Data Science student with a strong interest in data analytics and problem-solving. I enjoy working with data to extract insights and build meaningful solutions.
+I am a final-year Data Science student with a strong interest in data analytics and full-stack development. I enjoy working with data to extract insights and building scalable web applications using modern technologies.
 
 ---
 
@@ -15,20 +15,23 @@ I am a final-year Data Science student with a strong interest in data analytics 
 - **Excel**
 - **Tableau**
 - **Python (Learning)**
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js**
 
 ---
 
 ## ⚙️ Tech Stack
 
-- React.js  
-- Node.js  
-- Express.js  
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- Data Analysis & Visualization Tools  
 
 ---
 
 ## 🎯 Career Objective
 
-To begin my career in Data Analytics or Data Science, where I can apply my skills to solve real-world problems and grow continuously.
+To start my career in Data Analytics, Data Science, or Full-Stack Development, where I can apply my skills to solve real-world problems and continuously grow.
 
 ---
 
